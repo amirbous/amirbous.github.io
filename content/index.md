@@ -1,10 +1,20 @@
 ---
-title: Blog
+title: Homepage
 ---
 
 # Welcome
 
-Here, I would be documanting and narrating different concepts and technologies I am learning, and projects and outlines I am working on
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+# Education and fields of interest
+
+### BSc information Engineering (TUM Technical University of Munich)
+
+* Introductory computer science
+
+### Exchange year (DTU Denmark Technical University)
+
+* Scientific computing 
+* Machine learning 
+
+
